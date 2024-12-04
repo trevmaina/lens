@@ -1,12 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Pattaya|Work+Sans:400,200,300);
 
-/*
-	Radius by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -263,7 +257,7 @@
 	}
 
 	a {
-		color: #e74c3c;
+		color: rgb(70, 130, 180);
 	}
 
 	strong, b {
@@ -362,7 +356,7 @@
 		button.alt,
 		.button.alt {
 			background: #FFF;
-			color: #e74c3c;
+			color: rgb(70, 130, 180);
 		}
 
 		input[type="submit"].fit,
@@ -605,8 +599,8 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #e74c3c;
-			box-shadow: 0 0 0 1px #e74c3c;
+			border-color: rgb(70, 130, 180);
+			box-shadow: 0 0 0 1px rgb(70, 130, 180);
 		}
 
 	.select-wrapper:before {
@@ -626,15 +620,15 @@
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #e74c3c;
-		border-color: #e74c3c;
+		background-color: rgb(70, 130, 180);
+		border-color: rgb(70, 130, 180);
 		color: #ffffff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #e74c3c;
-		box-shadow: 0 0 0 1px #e74c3c;
+		border-color: rgb(70, 130, 180);
+		box-shadow: 0 0 0 1px rgb(70, 130, 180);
 	}
 
 	::-webkit-input-placeholder {
@@ -1038,7 +1032,7 @@
 
 			#preview .content header h2 {
 				font-size: 2.5em;
-				color: #e74c3c;
+				color: rgb(70, 130, 180);
 			}
 
 		@media screen and (max-width: 1680px) {
@@ -1245,7 +1239,7 @@
 			display: -ms-flexbox;
 			-ms-flex-align: center;
 			-ms-flex-pack: center;
-			background: #e74c3c;
+			background: rgb(70, 130, 180);
 			border-radius: 100%;
 			width: 35em;
 			height: 35em;
@@ -1415,7 +1409,7 @@
 			display: inline-block;
 			text-decoration: none;
 			border-radius: 50% 50% 0 0;
-			background: #e74c3c;
+			background: rgb(70, 130, 180);
 			width: 3em;
 			height: 3em;
 			margin-bottom: -1.75em;
@@ -1446,7 +1440,7 @@
 			-ms-flex-pack: center;
 			position: relative;
 			z-index: 10003;
-			background: #e74c3c;
+			background: rgb(70, 130, 180);
 			padding: 2em;
 			height: 20em;
 		}
@@ -1460,7 +1454,7 @@
 				display: inline-block;
 			}
 .copyright {
-	background: #e74c3c;
+	background: rgb(70, 130, 180);
 	width: 100%;
 	text-align: center;
 	color: white;
@@ -1470,7 +1464,7 @@
 	font-size: 1em;
 }
 .copyright a {
-	background: #e74c3c;
+	background: rgb(70, 130, 180);
 	text-align: center;
 	color: white;
 	text-decoration: none;
